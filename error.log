@@ -1,0 +1,270 @@
+[32minfo[39m: Offer: 0xa64f24a8cf8dca45090575467d4dd0022159f757 has been accepted {"timestamp":"2018-10-10 01-23-58"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-10 01-24-34"}
+[32minfo[39m: Offer 0xda03a6a346d7324a8251d29a4dcb06f54a9c5694 has been accepted {"timestamp":"2018-10-11 10-24-33"}
+[32minfo[39m: Transport undefined - Vehicle is loaded {"timestamp":"2018-10-11 10-24-55"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-11 10-24-55"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-11 10-25-12"}
+[32minfo[39m: Offer 0x581d5a81bc38c37a196cf1c6b66d3a4e295c8831 has been accepted {"timestamp":"2018-10-11 10-26-45"}
+[32minfo[39m: Transport undefined - Vehicle is loaded {"timestamp":"2018-10-11 10-26-55"}
+[32minfo[39m: Transport 0x581d5a81bc38c37a196cf1c6b66d3a4e295c8831 - Vehicle is loaded {"timestamp":"2018-10-11 10-31-09"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-11 10-31-36"}
+[32minfo[39m: Offer 0xf1f759e11c739ddd782a851eed10adfc4a811182 has been accepted {"timestamp":"2018-10-11 10-32-21"}
+[32minfo[39m: Transport 0xf1f759e11c739ddd782a851eed10adfc4a811182 - Vehicle is loaded {"timestamp":"2018-10-11 10-32-27"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-11 10-34-50"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-11 10-34-50"}
+[32minfo[39m: Offer 0xc17ee723bdeee9989e4923bd4201ed81a3b6feeb has been accepted {"timestamp":"2018-10-11 10-36-58"}
+[32minfo[39m: Transport 0xc17ee723bdeee9989e4923bd4201ed81a3b6feeb - Vehicle is loaded {"timestamp":"2018-10-11 10-37-06"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-11 10-37-06"}
+[32minfo[39m: Offer 0x47c948aad706f3ede5b7210714169cfebf80f901 has been accepted {"timestamp":"2018-10-11 10-38-20"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-11 10-39-01"}
+[32minfo[39m: Offer 0x9020a7fa69e6c786937d372515693b15af9e9805 has been accepted {"timestamp":"2018-10-11 11-13-55"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-11 11-14-32"}
+[32minfo[39m: Offer 0x1b451c19aacb97f314e5b59ea83e168a55e86000 has been accepted {"timestamp":"2018-10-11 11-17-58"}
+[32minfo[39m: Transport 0x1b451c19aacb97f314e5b59ea83e168a55e86000 - Vehicle is loaded {"timestamp":"2018-10-11 11-18-10"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-11 11-18-10"}
+[32minfo[39m: Offer 0xf2f14938cc66c65e3c685b4c8a7662fed44692ee has been accepted {"timestamp":"2018-10-11 11-20-14"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-11 11-20-51"}
+[32minfo[39m: Offer 0xe0400ae7813e21d3cfb101bb09af05b38a9e69bf has been accepted {"timestamp":"2018-10-11 11-23-34"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-11 11-24-20"}
+[32minfo[39m: Offer 0x70262d4b98b60c8a8ada7ab2bfcfe875bd840404 has been accepted {"timestamp":"2018-10-11 11-36-28"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-11 11-36-55"}
+[32minfo[39m: Offer 0x0952ce010263b71c9012ea5d1b3c94d9082b9462 has been accepted {"timestamp":"2018-10-11 11-37-55"}
+[32minfo[39m: Transport 0x0952ce010263b71c9012ea5d1b3c94d9082b9462 - Vehicle is loaded {"timestamp":"2018-10-11 11-38-11"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-11 11-38-30"}
+[32minfo[39m: Offer 0x4b26f0a59189cf17614b1f07bfccc308bc5cd810 has been accepted {"timestamp":"2018-10-11 12-11-42"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-11 12-12-22"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-11 04-45-42"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-11 04-45-42"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-11 04-45-42"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-11 04-45-42"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-11 04-45-42"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-12 08-59-32"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-12 08-59-32"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-12 08-59-32"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-12 08-59-32"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-12 08-59-32"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-15 09-46-47"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-15 09-46-47"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-15 09-46-47"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-15 09-46-48"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-15 09-46-48"}
+[32minfo[39m: Offer 0xd83f1f9b27f4f3850362fbcf03ebe3d3d982d71a has been accepted {"timestamp":"2018-10-15 09-48-21"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-15 09-48-52"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-15 09-50-13"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-15 09-50-13"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-15 09-50-13"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-15 09-50-13"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-15 09-50-14"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-15 09-53-20"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-15 09-53-20"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-15 09-53-20"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-15 09-53-21"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-15 09-53-21"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-15 09-56-44"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-15 09-56-44"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-15 09-56-44"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-15 09-56-45"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-15 09-56-45"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-15 09-57-27"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-15 09-57-27"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-15 09-57-27"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-15 09-57-27"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-15 09-57-27"}
+[32minfo[39m: The file has been saved! {"timestamp":"2018-10-15 09-57-30"}
+[32minfo[39m: Scenario is completed {"timestamp":"2018-10-15 09-57-30"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-15 10-13-41"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-15 10-13-41"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-15 10-13-41"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-15 10-13-42"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-15 10-13-42"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-15 10-14-02"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-15 10-14-03"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-15 10-14-03"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-15 10-14-03"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-15 10-14-03"}
+[32minfo[39m: Offer 0xbdaa44873c84581e396347e0ea12d4ad91944f7c has been accepted {"timestamp":"2018-10-15 10-14-38"}
+[32minfo[39m: Current location: B {"timestamp":"2018-10-15 10-14-48"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-15 10-18-54"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-15 10-18-54"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-15 10-18-54"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-15 10-18-55"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-15 10-18-55"}
+[32minfo[39m: Offer 0xb937b6ac542229bf80177201edfe5d6c4df6a300 has been accepted {"timestamp":"2018-10-15 10-19-41"}
+[32minfo[39m: Current location: B {"timestamp":"2018-10-15 10-19-50"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-16 11-30-09"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-16 11-30-09"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-16 11-30-09"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-16 11-30-24"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-16 11-30-25"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-16 11-30-25"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-16 11-31-18"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-16 11-31-18"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-16 11-31-18"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-16 11-33-14"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-16 11-33-14"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-16 11-33-14"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-16 11-33-41"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-16 11-33-41"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-16 11-33-41"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-16 11-33-41"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-16 11-33-41"}
+[32minfo[39m: Offer 0x822eb4a1e505c24434cd9876d409ceaf940c185d has been accepted {"timestamp":"2018-10-16 11-34-15"}
+[32minfo[39m: The file has been saved! {"timestamp":"2018-10-16 11-34-20"}
+[32minfo[39m: Scenario is completed {"timestamp":"2018-10-16 11-34-20"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-16 11-36-25"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-16 11-36-25"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-16 11-36-25"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-16 11-36-25"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-16 11-36-25"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-16 11-39-23"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-16 11-39-23"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-16 11-39-23"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-16 11-39-24"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-16 11-39-24"}
+[32minfo[39m: Offer 0xd7075187060be63d8058e4d80e303fc1646266a5 has been accepted {"timestamp":"2018-10-16 11-40-01"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-16 11-40-39"}
+[32minfo[39m: Transport 0xd7075187060be63d8058e4d80e303fc1646266a5Arrived to load {"timestamp":"2018-10-16 11-40-39"}
+[32minfo[39m: Current location: B {"timestamp":"2018-10-16 11-40-39"}
+[31merror[39m: connect ECONNREFUSED 192.168.0.150:8000 {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"192.168.0.150","port":8000,"timestamp":"2018-10-16 11-44-02"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-16 11-44-25"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-16 11-44-25"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-16 11-44-25"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-16 11-44-26"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-16 11-44-26"}
+[32minfo[39m: Offer 0xae61f0cee4c583027ddceb624f34f5ad1f4a5855 has been accepted {"timestamp":"2018-10-16 11-44-53"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-16 11-45-40"}
+[32minfo[39m: Transport 0xae61f0cee4c583027ddceb624f34f5ad1f4a5855Arrived to load {"timestamp":"2018-10-16 11-45-40"}
+[32minfo[39m: Current location: B {"timestamp":"2018-10-16 11-45-40"}
+[31merror[39m: connect ECONNREFUSED 192.168.0.150:8000 {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"192.168.0.150","port":8000,"timestamp":"2018-10-16 11-45-41"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-16 11-48-15"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-16 11-48-15"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-16 11-48-15"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-16 11-48-16"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-16 11-48-16"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-16 11-49-25"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-16 11-49-25"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-16 11-49-25"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-16 11-49-26"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-16 11-49-26"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-16 11-49-48"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-16 11-49-48"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-16 11-49-48"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-16 11-49-49"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-16 11-49-49"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-16 11-54-24"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-16 11-54-24"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-16 11-54-24"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-16 11-54-25"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-16 11-54-25"}
+[32minfo[39m: Offer 0x28f5dcdcfe9dc7fa6fd205d73fbd5ccea5be1831 has been accepted {"timestamp":"2018-10-16 11-55-05"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-16 11-55-39"}
+[32minfo[39m: Transport 0x28f5dcdcfe9dc7fa6fd205d73fbd5ccea5be1831Arrived to load {"timestamp":"2018-10-16 11-55-39"}
+[32minfo[39m: Current location: B {"timestamp":"2018-10-16 11-55-39"}
+[31merror[39m: connect ECONNREFUSED 192.168.0.150:8000 {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"192.168.0.150","port":8000,"timestamp":"2018-10-16 11-55-40"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-18 01-14-53"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-18 01-14-53"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-18 01-14-53"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-18 01-14-53"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-18 01-14-53"}
+[32minfo[39m: Offer 0x4a954913dc8833e7814baaabaa40f79e29b430e1 has been accepted {"timestamp":"2018-10-18 01-15-26"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-18 01-16-07"}
+[32minfo[39m: Transport 0x4a954913dc8833e7814baaabaa40f79e29b430e1Arrived to load {"timestamp":"2018-10-18 01-16-15"}
+[32minfo[39m: Current location: A {"timestamp":"2018-10-18 01-16-15"}
+[31merror[39m: ETIMEDOUT {"code":"ETIMEDOUT","connect":true,"timestamp":"2018-10-18 01-16-20"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-18 01-19-22"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-18 01-19-22"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-18 01-19-22"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-18 01-20-51"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-18 01-20-51"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-18 01-20-51"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-18 01-21-02"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-18 01-21-02"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-18 01-21-02"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-18 01-21-13"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-18 01-21-13"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-18 01-21-13"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-18 01-21-13"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-18 01-21-13"}
+[32minfo[39m: Offer 0xffa15e8394842fab5030e86a966824b29fb3a589 has been accepted {"timestamp":"2018-10-18 01-21-47"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-18 01-22-34"}
+[32minfo[39m: Transport 0xffa15e8394842fab5030e86a966824b29fb3a589Arrived to load {"timestamp":"2018-10-18 01-22-42"}
+[32minfo[39m: Current location: A {"timestamp":"2018-10-18 01-22-42"}
+[31merror[39m: connect ECONNREFUSED 192.168.0.150:8000 {"code":"ECONNREFUSED","errno":"ECONNREFUSED","syscall":"connect","address":"192.168.0.150","port":8000,"timestamp":"2018-10-18 01-22-43"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-18 01-22-59"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-18 01-22-59"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-18 01-22-59"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-18 01-23-00"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-18 01-23-00"}
+[32minfo[39m: Offer 0x3b598228e3ae35e137ed667b5d38cdfe58bbb628 has been accepted {"timestamp":"2018-10-18 01-23-27"}
+[32minfo[39m: Transporting {"timestamp":"2018-10-18 01-24-20"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-22 08-43-27"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-22 08-43-27"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-22 08-43-27"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-22 08-43-28"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-22 08-43-28"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-22 08-43-52"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-22 08-43-52"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-22 08-43-52"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-22 08-43-53"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-22 08-43-53"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-22 08-45-00"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-22 08-45-00"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-22 08-45-00"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-22 08-45-00"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-22 08-45-00"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-22 01-01-36"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-22 01-01-36"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-22 01-01-36"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-22 01-01-37"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-22 01-01-37"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-22 01-02-32"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-22 01-02-32"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-22 01-02-32"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-22 01-02-33"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-22 01-02-33"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-30 12-52-55"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-30 12-52-55"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-30 12-52-55"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-30 12-52-56"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-30 12-52-56"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-10-30 01-22-28"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-10-30 01-22-28"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-10-30 01-22-28"}
+[33mwarn[39m: Received list {"timestamp":"2018-10-30 01-22-29"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-10-30 01-22-29"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-11-16 10-34-31"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-11-16 10-34-31"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-11-16 10-34-31"}
+[33mwarn[39m: Received list {"timestamp":"2018-11-16 10-34-32"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-11-16 10-34-32"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-11-16 10-37-29"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-11-16 10-37-29"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-11-16 10-37-29"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-11-16 10-37-30"}
+[33mwarn[39m: Received list {"timestamp":"2018-11-16 10-37-30"}
+[32minfo[39m: Offer 0x4dfbb083cfc5870b640f05432465a969f7805c54 has been accepted {"timestamp":"2018-11-16 10-38-23"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-11-16 10-39-11"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-11-16 10-39-11"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-11-16 10-39-11"}
+[33mwarn[39m: Received list {"timestamp":"2018-11-16 10-39-11"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-11-16 10-39-11"}
+[32minfo[39m: Offer 0xaea2d59d58d05217e9be734165d0b953ff7858cd has been accepted {"timestamp":"2018-11-16 10-41-00"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-11-16 10-41-02"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-11-16 10-41-02"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-11-16 10-41-02"}
+[33mwarn[39m: Received list {"timestamp":"2018-11-16 10-41-03"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-11-16 10-41-03"}
+[32minfo[39m: Offer 0x1ac81464a3e46b31676709115cf4fa635184b2a0 has been accepted {"timestamp":"2018-11-16 10-41-43"}
+[32minfo[39m: Transporting {"timestamp":"2018-11-16 10-46-13"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-11-16 10-46-16"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-11-16 10-46-16"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-11-16 10-46-16"}
+[33mwarn[39m: Received list {"timestamp":"2018-11-16 10-46-18"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-11-16 10-46-18"}
+[32minfo[39m: Offer 0xaebe95d4e60879e76adbd3fdf96ec3e01fbd5163 has been accepted {"timestamp":"2018-11-16 10-47-00"}
+[32minfo[39m: Transporting {"timestamp":"2018-11-16 10-51-27"}
+[33mwarn[39m: Getting ID from smart contract {"timestamp":"2018-11-16 01-32-44"}
+[33mwarn[39m: Listening on port 8000 {"timestamp":"2018-11-16 01-32-44"}
+[33mwarn[39m: Getting the list of warehouses from smart contract {"timestamp":"2018-11-16 01-32-44"}
+[33mwarn[39m: ID: 0x46d8332946cd5e768bca2e3d65703d8701b059f3 {"timestamp":"2018-11-16 01-32-45"}
+[33mwarn[39m: Received list {"timestamp":"2018-11-16 01-32-45"}

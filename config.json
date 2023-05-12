@@ -1,0 +1,92 @@
+{
+  "scenario": {
+    "duration": 180
+  },
+  "logFile":"scenario_p10_d3h_2018_11_21_5.log",
+  "reportFileName":"scenario_p10_d3h_2018_11_21_5.json",
+  "saveResultsInterval":5,
+  "warehouses": [
+    {
+      "id": "0x596f42720f07e7fbf7fb23cd2666ca01a8189a54"
+    },
+    {
+      "id": "0xcb22ebed5a5422ee304fc9bc17a042c2204db57e"
+    }
+  ],
+  "warehouseInitialDistribution": 7,
+  "warehouseSlots": [
+    [
+      0,
+      3
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      3
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      1
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      2
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      2,
+      0
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      3,
+      0
+    ]
+  ],
+  "packages": {
+    "storageDurationFrame": [
+      3,
+      6
+    ],
+    "demandEndTime":1,
+    "amount": 10,
+    "reserveTime": 2
+  }
+}

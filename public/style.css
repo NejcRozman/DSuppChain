@@ -1,0 +1,78 @@
+
+.center {
+    position: absolute;
+    left: 350px;
+    top: 350px;
+    z-index: 88;
+}
+
+.circle {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background: linear-gradient(rgba(34,77,187, 1),rgba(34,100,230, 0.97));
+    border: 10px solid #18c1c1;
+    border-radius: 50%;
+    display: inline-block;
+    z-index: 87;
+    box-shadow: 0 -5px 5px 1px rgba(0,0,0,0.2);
+}
+
+
+.deg0 {
+    position: absolute;
+    left: 288px;
+}
+.deg60 {
+    position: absolute;
+    left: 144px;
+    top: 249px;
+
+}
+.deg120 {
+    position: absolute;
+    left: -144px;
+    top: 249px;
+}
+.deg180 {
+    position: absolute;
+    left: -288px;
+}
+.deg240 {
+    position: absolute;
+    left: -144px;
+    top: -249px;
+}
+.deg300 {
+    position: absolute;
+    left: 144px;
+    top: -249px;
+}
+
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    color: #fff;
+    font-size: 32px;
+    text-align: center;
+}
+
+
+.ring.small {
+    position: absolute;
+    left: 185px;
+    top: 185px;
+    border: 8px solid #6f42c1;
+    border-radius: 50%;
+    width: 520px;
+    height: 520px;
+    z-index: 86;
+}
+
+.ring.filled {
+    background-color: #fff;
+}
+
